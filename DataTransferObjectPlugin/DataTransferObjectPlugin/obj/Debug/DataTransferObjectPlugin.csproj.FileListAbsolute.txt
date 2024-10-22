@@ -1,0 +1,14 @@
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\obj\Debug\DataTransferObjectPlugin.csproj.AssemblyReference.cache
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\obj\Debug\DataTransferObjectPlugin.csproj.CoreCompileInputs.cache
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\bin\Debug\DataTransferObjectPlugin.dll
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\bin\Debug\DataTransferObjectPlugin.pdb
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\bin\Debug\Newtonsoft.Json.dll
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\bin\Debug\NLog.dll
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\bin\Debug\PhoneApp.exe
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\bin\Debug\Newtonsoft.Json.xml
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\bin\Debug\NLog.xml
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\bin\Debug\PhoneApp.pdb
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\bin\Debug\PhoneApp.exe.config
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\obj\Debug\DataTransferObjectPlugin.csproj.CopyComplete
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\obj\Debug\DataTransferObjectPlugin.dll
+D:\source\repos\DataTransferObjectPlugin\DataTransferObjectPlugin\obj\Debug\DataTransferObjectPlugin.pdb
